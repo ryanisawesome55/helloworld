@@ -1,2 +1,2 @@
 # helloworld
-Hello World program
+Hello World program scripted with Python.
